@@ -12,9 +12,9 @@
 Web site da aplicação wallie, que é um app de gerenciamento e pagamento de despesas.
 
 <p align="center">
-  <img src="src/screens/01.png"/>
-  <img src="src/screens/02.png"/>
-  <img src="src/screens/03.png"/>
+  <img src="screens/01.png"/>
+  <img src="screens/02.png"/>
+  <img src="screens/03.png"/>
 </p>
 
 Caso deseje rodar na sua máquina, digite:
