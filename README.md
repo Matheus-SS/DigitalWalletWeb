@@ -11,6 +11,8 @@
 
 Web site da aplicação wallie, que é um app de gerenciamento e pagamento de despesas.
 
+[Wallie website para download](https://walliedigital.netlify.app)
+
 <p align="center">
   <img src="screens/04.png"/>
 </p>
